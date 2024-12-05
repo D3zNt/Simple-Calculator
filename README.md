@@ -6,6 +6,6 @@ Made By Nic, ben, Fairuz, Raihan
 Roles:
 -  Calculator design: Nicolas
 -  Add: Benitiya
--  Sub:
+-  Sub: Raihan
 -  Mul: Nicolas
--  Div:
+-  Div: Fairuz
