@@ -4,8 +4,8 @@
 Made By Nic, ben, Fairuz, Raihan
 
 Roles:
-  Calculator design: Nicolas
-  Add:
-  Sub:
-  Mul: Nicolas
-  Div:
+  Calculator design: Nicolas\n
+  Add:\n
+  Sub:\n
+  Mul: Nicolas\n
+  Div:\n
