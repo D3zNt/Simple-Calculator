@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+float additon(float x, float y);
 float substraction(float x, float y);
 float multiplication(float x, float y);
 
@@ -30,7 +31,7 @@ int main() {
         switch (choice)
         {
         case 1:
-            /* code */
+            input1 = additon(input1, input2);
             break;
         case 2:
             input1 = substraction(input1, input2);
@@ -61,6 +62,10 @@ int main() {
     }
     }
     return 0;
+}
+
+float additon(float x, float y){
+	return x+y;
 }
 
 float substraction(float x, float y) {
