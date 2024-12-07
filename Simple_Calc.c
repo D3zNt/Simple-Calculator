@@ -4,6 +4,7 @@
 float additon(float x, float y);
 float substraction(float x, float y);
 float multiplication(float x, float y);
+float divider(float x, float y);
 
 int main() {
     float input1, input2;
@@ -74,4 +75,7 @@ float substraction(float x, float y) {
 
 float multiplication(float x, float y) {
     return x * y;
+}
+float divider(float x, float y){
+    return x/y;
 }
