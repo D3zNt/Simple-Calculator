@@ -41,7 +41,10 @@ int main() {
             input1 = multiplication(input1, input2);
             break;
         case 4:
-            /* code */
+            if (input2 != 0 ){
+                input1 = divider(input1, input2);
+            } else
+                printf("Cannot Divide by zero\n");
             break;
         case -1:
             printf("Exiting the calculator. Goodbye! :)\n");
